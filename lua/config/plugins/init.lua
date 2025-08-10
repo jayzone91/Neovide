@@ -1,0 +1,8 @@
+require("config.plugins.mini")
+require("config.plugins.snacks")
+require("config.plugins.mason")
+require("config.plugins.cmp")
+require("config.plugins.treesitter")
+require("config.plugins.keymaps")
+require("config.plugins.which-key")
+require("config.plugins.pairs")
